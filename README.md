@@ -1,2 +1,2 @@
-# webp_to_png
-Conversor de Webp para PNG ou outra padrão de Arquivo
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
