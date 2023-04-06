@@ -5,14 +5,18 @@
 
 Um projeto simples, em dart que converte arquivos de Webp para Png ou outros formatos.
 
-## Começando
 
+
+
+<h2>🛠️ Dependencias </h2>
+<p>
 Para usar este a concersão, adicione esta dependência ao seu pubspec.yaml
 
 ```
 dependencies:
     image: <latest_version>
 ```
+</p>
 
 <h2>🤔 Como usar</h2>
 
