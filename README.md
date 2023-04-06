@@ -1,12 +1,8 @@
-### Conversosr Webp para PNG ou outras padrões.
-
+<h1 align="center">Conversosr Webp para PNG ou outras padrões</h1>
 
 ## Descrição
 
 Um projeto simples, em dart que converte arquivos de Webp para Png ou outros formatos.
-
-
-
 
 <h2>🛠️ Dependencias </h2>
 <p>
